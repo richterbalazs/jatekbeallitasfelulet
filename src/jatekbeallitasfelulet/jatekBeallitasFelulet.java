@@ -304,7 +304,7 @@ public class jatekBeallitasFelulet extends javax.swing.JFrame {
         }
         
         if(chb1920x1080.isSelected()){
-            kimenet += " - 2560x1440" + sep;
+            kimenet += " - 1920x1080" + sep;
         }
         
         kimenet += "Képarány változtatása: " + sep;
